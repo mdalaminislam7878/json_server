@@ -1,11 +1,22 @@
 {
-  "posts": [
+  "blogs": [
     {
-      "id": 1,
-      "title": "hello"
+      "title": "My new Website",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed, reiciendis itaque! Quod, harum possimus quae, error ab sint odit exercitationem cumque eligendi, sunt expedita aliquam adipisci! Minus dolorem earum necessitatibus?",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "Welcome Party!",
+      "body": "lorem ipsum....",
+      "author": "yoshi",
+      "id": 2
+    },
+    {
+      "title": "aber nuton ekti blog leklam delete hoye jawer karone",
+      "body": "asdlfjasd;fl",
+      "author": "mario",
+      "id": 3
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
